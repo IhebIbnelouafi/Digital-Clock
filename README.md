@@ -18,14 +18,6 @@ The digital clock project aims to create a user-friendly and functional clock in
 
 - A modern web browser that supports HTML, CSS, and JavaScript.
 
-### Installation
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/digital-clock.git
-    ```
-
-2. Open `index.html` in your preferred web browser.
 
 ### Usage
 
